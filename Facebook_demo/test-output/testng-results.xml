@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4988" started-at="2021-03-11T19:12:25 IST" finished-at="2021-03-11T19:12:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4988" started-at="2021-03-11T19:12:25 IST" finished-at="2021-03-11T19:12:30 IST">
+      <class name="demo.FacebookPage">
+        <test-method status="PASS" signature="verifyFaceBookHomePage()[pri:0, instance:demo.FacebookPage@27a5f880]" name="verifyFaceBookHomePage" duration-ms="4950" started-at="2021-03-11T19:12:26 IST" finished-at="2021-03-11T19:12:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFaceBookHomePage -->
+      </class> <!-- demo.FacebookPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
